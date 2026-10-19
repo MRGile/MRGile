@@ -1,4 +1,4 @@
-<h1 data-importer="text" align="left">Hi 👋! My name is Muhamad Lizam Muhtar and I'm a Student High School , from Indonesia</h1>
+<h1 data-importer="text" align="left">Hi! My name is Muhamad Lizam Muhtar and I'm a Student High School , from Indonesia</h1>
 
 ###
 
